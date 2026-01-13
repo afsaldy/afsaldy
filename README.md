@@ -21,6 +21,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/achmad-fadhlih-saldy-saputra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="achmad-fadhlih-saldy-saputra" height="30" width="40" /></a>
 <a href="https://instagram.com/saldy_eizy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saldy_eizy" height="30" width="40" /></a>
+<a href="https://mail.google.com/" target="blank"><img align="center" src="https://logodix.com/logo/245604.png" alt="afsaldy0@gmail.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
