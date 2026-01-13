@@ -7,15 +7,15 @@
 
 <h3 align="left">About Me</h3>
 
-- 🎓 Physics fresh graduate from Universitas Negeri Jakarta with a strong background in instrumentation, electronics, and IoT systems.
+🎓 Physics fresh graduate from Universitas Negeri Jakarta with a strong background in instrumentation, electronics, and IoT systems.
 
-- 🔧 Experienced in developing sensor-based systems, embedded systems, and data-driven projects using Python.
+🔧 Experienced in developing sensor-based systems, embedded systems, and data-driven projects using Python.
 
-- 📊 Hands-on experience in data analysis, machine learning, and computer vision.
+📊 Hands-on experience in data analysis, machine learning, and computer vision.
 
-- 💡 Enjoy working at the intersection of hardware, data, and software to turn real-world problems into practical solutions.
+💡 Enjoy working at the intersection of hardware, data, and software to turn real-world problems into practical solutions.
 
-- 🚀 Currently seeking opportunities to grow as a technology-driven engineer, learn from real industry challenges, and contribute to impactful projects.
+🚀 Currently seeking opportunities to grow as a technology-driven engineer, learn from real industry challenges, and contribute to impactful projects.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
