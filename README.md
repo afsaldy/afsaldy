@@ -1,5 +1,4 @@
 [![MasterHead](https://github.com/afsaldy/afsaldy/blob/main/back.png)](https://github.com/afsaldy/afsaldy)
-![]
 
 <h1 align="center">Hi 👋, I'm Achmad Fadhlih Saldy Saputra</h1>
 <h3 align="center">IoT Engineer & Data Science</h3>
