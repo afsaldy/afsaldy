@@ -5,12 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afsaldy&label=Profile%20views&color=0e75b6&style=flat" alt="afsaldy" /> </p>
 
-# 💫 About Me:
-🎓 Physics fresh graduate from Universitas Negeri Jakarta with a strong background in instrumentation, electronics, and IoT systems.
-🔧 Experienced in developing sensor-based systems, embedded systems, and data-driven projects using Python.
-📊 Hands-on experience in data analysis, machine learning, and computer vision.
-💡 Enjoy working at the intersection of hardware, data, and software to turn real-world problems into practical solutions.
-🚀 Currently seeking opportunities to grow as a technology-driven engineer, learn from real industry challenges, and contribute to impactful projects.
+# About Me:
+- 🎓 Physics fresh graduate from Universitas Negeri Jakarta with a strong background in instrumentation, electronics, and IoT systems.
+- 🔧 Experienced in developing sensor-based systems, embedded systems, and data-driven projects using Python.
+- 📊 Hands-on experience in data analysis, machine learning, and computer vision.
+- 💡 Enjoy working at the intersection of hardware, data, and software to turn real-world problems into practical solutions.
+- 🚀 Currently seeking opportunities to grow as a technology-driven engineer, learn from real industry challenges, and contribute to impactful projects.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
