@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Achmad Fadhlih Saldy Saputra</h1>
-<h3 align="center">Fresh graduate with a Bachelor’s degree in Physics from Universitas Negeri Jakarta, with a focus on instrumentation and technology. Experienced in developing IoT-based projects, data analysis, and machine learning using Python. Comfortable working with data, sensor systems, and backend–dashboard integration. Highly interested in building a career in technology, particularly in computer vision and data-driven systems.</h3>
+<h3 align="center">IoT Engineer & Data Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afsaldy&label=Profile%20views&color=0e75b6&style=flat" alt="afsaldy" /> </p>
 
-- 🌱 I’m currently learning **Flask, Laravel**
-
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/achmad-fadhlih-saldy-saputra/](https://www.linkedin.com/in/achmad-fadhlih-saldy-saputra/)
+- 🌱 I’m currently learning **Technology**
 
 - 📫 How to reach me **afsaldy0@gmail.com**
 
@@ -14,6 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/achmad-fadhlih-saldy-saputra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="achmad-fadhlih-saldy-saputra" height="30" width="40" /></a>
+<a href="https://instagram.com/saldy_eizy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saldy_eizy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
