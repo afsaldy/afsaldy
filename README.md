@@ -1,24 +1,38 @@
-<!-- GitHub profile README for https://github.com/afsaldy -->
-<!-- Put README.md at repository root and keep the assets/ folder next to it. -->
-
+<!-- Alternative version: editable GitHub Markdown instead of a single full panel image -->
 <div align="center">
-  <img src="assets/midnight-profile.png" alt="Achmad Fadhlih Saldy Saputra — AI Engineer focused on Computer Vision and Data Science. Midnight Slate profile with an illustrated bird, programming-style introduction, tools, and selected work." width="100%" />
-
-  <sub>
-    <a href="https://github.com/afsaldy">github</a>
-    &nbsp;&nbsp;·&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/achmad-fadhlih-saldy-saputra/">linkedin</a>
-    &nbsp;&nbsp;·&nbsp;&nbsp;
-    <a href="https://www.instagram.com/saldy_eizy/">instagram</a>
-  </sub>
+  <img src="assets/midnight-header.png" alt="Building with vision & purpose — Fadhlih Saldy" width="100%" />
 </div>
 
-<!--
-THEME: Midnight Slate
-The artwork above is a PNG so that the dark grid, precise typography,
-colors, and bird illustration display consistently on GitHub.
+### `$ cat about_me.py`
 
-The social links under the artwork are real, clickable HTML links.
-To change the text inside the artwork, edit/rebuild the image asset.
-See README-editable.md for a text-based alternative with native Markdown.
--->
+```python
+name = "Fadhlih Saldy"
+background = "Physics · Instrumentation"
+focus = ["Computer Vision", "Real-time AI"]
+building = "Reliable video analytics pipelines"
+```
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>// toolchain</h3>
+      <img src="https://img.shields.io/badge/python-243831?style=flat-square&logo=python&logoColor=C9DFD3" alt="Python" />
+      <img src="https://img.shields.io/badge/pytorch-243831?style=flat-square&logo=pytorch&logoColor=C9DFD3" alt="PyTorch" />
+      <img src="https://img.shields.io/badge/opencv-243831?style=flat-square&logo=opencv&logoColor=C9DFD3" alt="OpenCV" />
+      <img src="https://img.shields.io/badge/docker-243831?style=flat-square&logo=docker&logoColor=C9DFD3" alt="Docker" />
+      <img src="https://img.shields.io/badge/fastapi-243831?style=flat-square&logo=fastapi&logoColor=C9DFD3" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/linux-243831?style=flat-square&logo=linux&logoColor=C9DFD3" alt="Linux" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>// selected work</h3>
+      <p><strong>People Counting</strong><br /><sub>Real-time detection, tracking & analytics</sub></p>
+      <p><strong>RTSP Analytics</strong><br /><sub>Video streaming & inference pipelines</sub></p>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <a href="https://github.com/afsaldy">github</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/achmad-fadhlih-saldy-saputra/">linkedin</a> &nbsp;·&nbsp;
+  <a href="https://www.instagram.com/saldy_eizy/">instagram</a>
+</div>
