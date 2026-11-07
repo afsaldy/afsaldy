@@ -1,0 +1,18 @@
+MIDNIGHT SLATE / afsaldy GitHub profile
+
+DEFAULT — EXACT SCREENSHOT STYLE:
+1. Open your GitHub repository: https://github.com/afsaldy/afsaldy
+2. Upload README.md and the assets/ directory (including midnight-profile.png).
+3. Commit to the repository default branch (e.g., main).
+4. Visit https://github.com/afsaldy to see the new profile.
+
+The design is a single PNG to preserve the grid, precise fonts, and dark
+background on GitHub. The three real clickable social links sit underneath.
+
+OPTIONAL — MORE EDITABLE:
+If you prefer editable code blocks, badge links and text on GitHub,
+copy the contents of README-editable.md into README.md.
+The alternate uses assets/midnight-header.png as the hero.
+
+Both variants use the same social links supplied with your original profile.
+Project titles are intentionally not linked to unverified repository names.
