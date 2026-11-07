@@ -1,15 +1,13 @@
 # Achmad Fadhlih Saldy Saputra
 
-**Data Science · IoT Engineer**
-
-*Exploring how vision, data, and software can solve real-world problems.*
+**Exploring how vision, data, and software can solve real-world problems.**
 
 ---
 
 ```python
 nick-name = "Saldy"
 background = "Physics · Instrumentation"
-focus = ["Computer Vision"]
+focus = ["Data Science"]
 building = "Reliable video analytics pipelines"
 ```
 ---
