@@ -1,8 +1,6 @@
-# Building with vision & purpose.
+# Achmad Fadhlih Saldy Saputra
 
-**Achmad Fadhlih Saldy Saputra**  
-AI Engineer · Computer Vision · Data Science
-Data Science · IoT Engineer
+**Data Science · IoT Engineer**
 
 *Exploring how vision, data, and software can solve real-world problems.*
 
